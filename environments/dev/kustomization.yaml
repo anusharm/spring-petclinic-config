@@ -1,2 +1,5 @@
 bases:
   - ../../app/
+images:
+  - name: spring-petclinic
+    newName: quay.io/anusharm/spring-petclinic:latest
